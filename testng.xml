@@ -7,7 +7,7 @@
  <test name="AndroidTest1">
 
   <parameter name="platformName" value="Android"/>
-  <parameter name="deviceName" value="Emulator2_Pixel4"/>
+  <parameter name="deviceName" value="Emulator1"/>
   <parameter name="udid" value="emulator-5554"/>
    <classes>
       <class name="com.qa.tests.LoginTest"/>
@@ -17,7 +17,7 @@
   <test name="AndroidTest2">
   
   <parameter name="platformName" value="Android"/>
-  <parameter name="deviceName" value="Emulator1_Pixel4"/>
+  <parameter name="deviceName" value="Emulator2"/>
   <parameter name="udid" value="emulator-5556"/>
    <classes>
       <class name="com.qa.tests.RegistrationTest"/>
