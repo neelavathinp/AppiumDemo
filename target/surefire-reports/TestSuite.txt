@@ -1,0 +1,22 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 22, Failures: 3, Errors: 0, Skipped: 19, Time elapsed: 80.668 s <<< FAILURE! - in TestSuite
+com.qa.tests.LoginDataDrivenTest.intializeDriver  Time elapsed: 79.66 s  <<< FAILURE!
+org.testng.TestNGException: 
+
+Parameter 'platformName' is required by BeforeClass on method intializeDriver but has not been marked @Optional or defined
+
+
+com.qa.tests.LoginTest.intializeDriver  Time elapsed: 0 s  <<< FAILURE!
+org.testng.TestNGException: 
+
+Parameter 'platformName' is required by BeforeClass on method intializeDriver but has not been marked @Optional or defined
+
+
+com.qa.tests.RegistrationTest.intializeDriver  Time elapsed: 0 s  <<< FAILURE!
+org.testng.TestNGException: 
+
+Parameter 'platformName' is required by BeforeClass on method intializeDriver but has not been marked @Optional or defined
+
+

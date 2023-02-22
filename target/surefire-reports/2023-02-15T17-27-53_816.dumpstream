@@ -1,0 +1,4 @@
+# Created at 2023-02-15T17:27:54.962
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Automation-Mobile\CIPLAPOCDemoFramework1\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
